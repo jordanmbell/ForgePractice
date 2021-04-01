@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": [
+      { "model": "jordanmod:block/jordans_block" }
+    ]
+  }
+}
